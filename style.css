@@ -5,6 +5,7 @@ body {
     background: #f8f9fa;
     color: #333;
     line-height: 1.6;
+    text-align: center;
 }
 
 /* Container */
@@ -102,3 +103,4 @@ footer {
         padding: 0 10px;
     }
 }
+
